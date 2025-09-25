@@ -1,0 +1,28 @@
+* {
+    text-align: center;
+    border-spacing: 0;
+    padding: 10px 10px;
+}
+th {
+    background-color: black;
+    color: white;
+}
+#db {
+    background-color: blue;
+    color:white
+}
+#wt {
+    background-color: red;
+    color:white;
+}
+#ITE {
+    background-color: purple;
+    color: white;
+}
+#ITO {
+    background-color: pink;
+}
+table {
+    padding: 0;
+    border: 1px solid;
+}

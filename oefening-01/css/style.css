@@ -1,0 +1,25 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid #71a8ff;
+    background-color: #71a8ff;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#btn1:hover {
+    background-color: #5983c8;
+    color: white;
+    border: #71a8ff;
+    box-shadow: 5px 5px 3px grey;
+}
+
+#btn2:active {
+    transform: translateY(10px);
+    background-color: #5883c7;
+    color: black;
+}
+
+#btn3:focus {
+    outline: 3px solid #5883c7;
+}
